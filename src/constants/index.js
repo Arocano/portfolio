@@ -117,7 +117,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/alejandro-rocano-b306b5235',
+        link: 'https://www.linkedin.com/in/arocano',
     }
 ];
 
