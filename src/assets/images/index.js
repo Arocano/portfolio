@@ -5,6 +5,7 @@ import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
 import uta from './uta.png'
+import idee from './idee.jpg'
 export {
     hero,
     meta,
@@ -12,5 +13,6 @@ export {
     starbucks,
     tesla,
     logo,
-    uta
+    uta,
+    idee
 }

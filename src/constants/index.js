@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla,uta } from "../assets/images";
+import { uta,idee} from "../assets/images";
 import {
     car,
     contact,
@@ -102,6 +102,18 @@ export const experiences = [
             "Mantenimiento de los servidores de la Facultdad de Ingeniería en Sistemas, Electronica e Industrial.",
             "Mantenimiento de la red cableada de la Facultdad de Ingeniería en Sistemas, Electronica e Industrial.",
             "Participar activamente en el servicio técnico para el personal administrativo y docente",
+        ],
+    },
+    {
+        title: "Desarrollo Software",
+        company_name: "IDEE",
+        icon: idee,
+        iconBg: "#22EEEB",
+        date: "Octubre 2023 - Actualidad",
+        points: [
+            "Desarrollo Frontend de una aplicación web para la gestión de productos.",
+            "Desarrollo Backend para una aplicación web para la gestión de productos.",
+            "Mantenimiento y actualización de una aplicaión web",
         ],
     },
     
