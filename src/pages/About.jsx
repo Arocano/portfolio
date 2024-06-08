@@ -15,7 +15,7 @@ const About = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>Ingeniero de Software de Ecuador, interesado en el desarrollo de aplicaciones web
-          y modelos de inteligencia articifial. Aqui te dejo mis redes sociales:</p>
+          y modelos de inteligencia articifial. Aquí te dejo mis redes sociales:</p>
       </div>
 
       <div className="flex flex-wrap my-5 gap-7">
@@ -64,7 +64,7 @@ const About = () => {
         <h3 className="subhead-text">Mi experiencia</h3>
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p> He trabajado para algunas organizaciones, las cuales me han ayudado a aumentar mis habilidades
-            y trabajar en equipo con personas muy capacitadas. Aqui un resumen:</p>
+            y trabajar en equipo con personas muy capacitadas. Aquí un resumen:</p>
         </div>
 
         <div className="mt-12 flex">

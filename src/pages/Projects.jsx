@@ -12,10 +12,10 @@ const Projects = () => {
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>En los ultimos años he participado y trabajado en varios proyectos,
-          sin embargo aqui estan los proyectos a los que mas cariño les tengo. La mayoria
-          de estos son open-source, asi que si alguno es de tu interés, se libre en
+          sin embargo aqui estan los proyectos a los que más cariño les tengo. La mayoría
+          de estos son open-source, así que si alguno es de tu interés, se libre en
           sumergirte a profundidad en el código y contribuir con nuevas ideas.
-          Tu colaboración siempre sera bienvenida!</p>
+          Tu colaboración siempre será bienvenida!</p>
       </div>
 
 

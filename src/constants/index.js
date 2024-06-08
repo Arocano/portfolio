@@ -99,8 +99,8 @@ export const experiences = [
         iconBg: "#FA8072",
         date: "Diciembre 2022 - Febrero 2021",
         points: [
-            "Mantenimiento de los servidores de la Facultdad de Ingeniería en Sistemas, Electronica e Industrial.",
-            "Mantenimiento de la red cableada de la Facultdad de Ingeniería en Sistemas, Electronica e Industrial.",
+            "Mantenimiento de los servidores de la d de Ingeniería en Sistemas, Electronica e Industrial.",
+            "Mantenimiento de la red cableada de la Facultad de Ingeniería en Sistemas, Electrónica e Industrial.",
             "Participar activamente en el servicio técnico para el personal administrativo y docente",
         ],
     },
