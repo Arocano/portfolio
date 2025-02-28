@@ -18,7 +18,7 @@ const renderContent = {
         neo-brutalism-blue py-4 px-8 text-white mx-5'>
          Hola, yo soy <span className='font-semibold'>Alejandro Rocano</span>👋
          <br/>
-         Egresado de Ingeniería de Software de Ecuador.
+         Ingenierio de Software de Ecuador.
         </h1>
     ),
     2: (
